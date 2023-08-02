@@ -1,0 +1,14 @@
+@import "main.scss";
+
+.allListMusic{
+    max-width: 1500px;
+    margin:auto;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:flex-start;
+
+    .blocMusic{
+      width:33%
+    }
+
+}
